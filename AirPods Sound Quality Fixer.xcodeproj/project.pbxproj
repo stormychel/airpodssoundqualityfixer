@@ -317,14 +317,14 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				COMBINE_HIDPI_IMAGES = YES;
-				DEVELOPMENT_TEAM = SGKB9R23YT;
+				DEVELOPMENT_TEAM = 4VYV5C3L3Y;
 				INFOPLIST_FILE = "AirPods Sound Quality Fixer/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/../Frameworks",
 				);
 				MACOSX_DEPLOYMENT_TARGET = 10.13;
-				PRODUCT_BUNDLE_IDENTIFIER = com.milgra.asqf;
+				PRODUCT_BUNDLE_IDENTIFIER = com.michelstorms.asqf;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Debug;
@@ -335,14 +335,14 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				COMBINE_HIDPI_IMAGES = YES;
-				DEVELOPMENT_TEAM = SGKB9R23YT;
+				DEVELOPMENT_TEAM = 4VYV5C3L3Y;
 				INFOPLIST_FILE = "AirPods Sound Quality Fixer/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/../Frameworks",
 				);
 				MACOSX_DEPLOYMENT_TARGET = 10.13;
-				PRODUCT_BUNDLE_IDENTIFIER = com.milgra.asqf;
+				PRODUCT_BUNDLE_IDENTIFIER = com.michelstorms.asqf;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Release;
